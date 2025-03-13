@@ -134,3 +134,16 @@ Login using the server’s administrator credentials.
 
 Cockpit is a robust tool that simplifies Linux server administration by providing a user-friendly web interface for system monitoring, user management, networking, and security configurations. By deploying and configuring Cockpit, administrators can enhance efficiency, improve security, and centralize Linux system management in a scalable and accessible manner.
 
+![web server  for cockpit](https://github.com/rukevweubio/Installation-and-Configuration-of-Cockpit-for-Linux-System-Administration/blob/main/Screenshot%20(504).png)
+
+![web server  for cockpit](https://github.com/rukevweubio/Installation-and-Configuration-of-Cockpit-for-Linux-System-Administration/blob/main/Screenshot%20(505).png)
+
+![web server  for cockpit](https://github.com/rukevweubio/Installation-and-Configuration-of-Cockpit-for-Linux-System-Administration/blob/main/Screenshot%20(506).png)
+
+
+![web server  for cockpit](https://github.com/rukevweubio/Installation-and-Configuration-of-Cockpit-for-Linux-System-Administration/blob/main/Screenshot%20(507).png)
+
+![web server  for cockpit](https://github.com/rukevweubio/Installation-and-Configuration-of-Cockpit-for-Linux-System-Administration/blob/main/Screenshot%20(508).png)
+
+
+
